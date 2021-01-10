@@ -77,4 +77,5 @@ There are various software that are available for making HTTP requests, either o
 
 <hr>
 I hope you have a good understanding of HTTP basics now. If this article helped you, support it, and share among your peers.
+
 #### Happy Coding!
