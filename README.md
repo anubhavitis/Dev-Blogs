@@ -68,5 +68,7 @@ cURL is like a web-browser, but for the command line. Use <a href="https://curl.
 There is various software that is available for making HTTP requests, You can use anyone. PostMan is one of the most famous apps for it, you can install it on your machine using <a href="https://www.postman.com/downloads/"> this link</a>.
 
 <hr>
+
 I hope you have a good understanding of HTTP basics now. If this article helped you, support it, and sharing among your peers.
+
 #### Happy Coding!
