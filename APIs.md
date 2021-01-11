@@ -11,7 +11,8 @@ Recently, I came through an interesting session on APIs at <a href="https://www.
 API stands for **Application Programming Interface**, is a set of functions that allows applications to access data and interact with external software components, operating systems, or microservices.
 
 <img src="https://user-images.githubusercontent.com/26124625/104198884-ca1bcf80-544c-11eb-94d1-22548426ad4d.png"></img>
-In simple, an API is like a waiter in a restaurant. You don’t go into a cafe and walk straight into the kitchen to tell the chef what you wanna eat. The waiter does that for you, and that’s exactly what an API is - with the client being you, the customer, and any resource that can send data, being the chef.
+
+In simple words, an API is like a waiter in a restaurant. You don’t go into a cafe and walk straight into the kitchen to tell the chef what you wanna eat. The waiter does that for you, and that’s exactly what an API is - with the client being you, the customer, and any resource that can send data, being the chef.
 
 <hr>
 
@@ -32,10 +33,11 @@ In simple, an API is like a waiter in a restaurant. You don’t go into a cafe a
 REST stands for **Representational State Transfer**, it is the most popular web API architecture. They follow a client-server model where one software program sends a request and the other response with some data.
 <img src="https://user-images.githubusercontent.com/26124625/104197485-16fea680-544b-11eb-8aaa-d2bd74bf207a.png"> </img>
 
-These APIs receive a response in JSON format, it's a standard format that is easily "understandable" by applications and can be handled well in most languages. For e.g. Ruby app can easily use JSON response from Java sever.
+These APIs receive a response in **JSON** format, it's a standard format that is easily "understandable" by applications and can be handled well in most languages. For e.g. Ruby app can easily use JSON response from Java sever.
 
 <img src="https://user-images.githubusercontent.com/26124625/104204412-431e2580-5453-11eb-9827-29a65aa6ff82.png"></img>
 
+JSON stand for **JavaScript Object Notation**, it is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. Read more about it <a href="https://www.json.org/json-en.html"> here </a>
 
 > There are several other forms of APIs (SOAP, XML-RPC, JSON-RPC, etc.), we'll limit our discussion to REST only. For more info, <a href="https://stoplight.io/api-types/"> Click here</a>
 
