@@ -31,11 +31,28 @@ In simple, an API is like a waiter in a restaurant. You don’t go into a cafe a
 
 REST stands for **Representational State Transfer**, it is the most popular web API architecture. They follow a client-server model where one software program sends a request and the other response with some data.
 <img src="https://user-images.githubusercontent.com/26124625/104197485-16fea680-544b-11eb-8aaa-d2bd74bf207a.png"> </img>
-These APIs receive a response in JSON format, it's a standard format that is easily "understandable" by applications and can be handled well in most languages. For e.g. Android app can easily use JSON response from Node.js sever.
+
+These APIs receive a response in JSON format, it's a standard format that is easily "understandable" by applications and can be handled well in most languages. For e.g. Ruby app can easily use JSON response from Java sever.
+
+<img src="https://user-images.githubusercontent.com/26124625/104204412-431e2580-5453-11eb-9827-29a65aa6ff82.png"></img>
+
 
 > There are several other forms of APIs (SOAP, XML-RPC, JSON-RPC, etc.), we'll limit our discussion to REST only. For more info, <a href="https://stoplight.io/api-types/"> Click here</a>
 
 <hr>
+
+# REST != HTTP
+
+A lot of people prefer to compare HTTP with REST. REST and HTTP are not same.
+
+In the REST architectural style, data and functionality are considered resources and are accessed using Uniform Resource Identifiers (URIs). The resources are acted upon by using a set of simple, well-defined operations. The clients and servers exchange representations of resources by using a standardized interface and protocol – typically HTTP.
+
+Resources are decoupled from their representation so that their content can be accessed in a variety of formats, such as HTML, XML, plain text, PDF, JPEG, JSON, and others. Metadata about the resource is available and used, for example, to control caching, detect transmission errors, negotiate the appropriate representation format, and perform authentication or access control. And most importantly, every interaction with a resource is stateless.
+
+<hr>
+
+> For more information, goto <a href="https://restfulapi.net/"> reastfulapi.net </a>
+
 I hope you have a good understanding of HTTP basics now. If this article helped you, support it, and share it among your peers.
 
 Connect with me: <a href="https://linkedin.com/in/anubhavitis"> LinkedIn </a>|<a href="https://twitter.com/anubhavitis"> Twitter </a>|<a href="https://github.com/anubhavitis"> GitHub </a>
