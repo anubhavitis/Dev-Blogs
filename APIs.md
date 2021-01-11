@@ -18,9 +18,9 @@ In simple words, an API is like a waiter in a restaurant. You don’t go into a 
 
 # Benefits of using APIs
 
-- **Automation**: APIs are accessible to applications without a user interface. This is the first most concrete benefit of using it. Instead of people, computers will do the work, hence cutting down the total time.
+- **Security**: While using an API, client-side and server-side application works independently, and they communicate through API, so if anyone tries to hack into the client-side app, the server stays unaffected and secured.
 
-- **Better integration**: APIs allow content to be embedded from any site or application more easily. For e.g. an API written in GO can be used by Node.js/Django.
+- **Flexibility**: APIs allow content to be embedded from any site or application more easily. For e.g. an API written in GO can be used by Node.js/Django.
 
 - **Efficiency**: When access is provided to an API, the content generated can be published automatically and is available for every channel. It allows it to be shared and distributed more easily.
 
@@ -31,6 +31,7 @@ In simple words, an API is like a waiter in a restaurant. You don’t go into a 
 # REST API
 
 REST stands for **Representational State Transfer**, it is the most popular web API architecture. They follow a client-server model where one software program sends a request and the other response with some data.
+
 <img src="https://user-images.githubusercontent.com/26124625/104197485-16fea680-544b-11eb-8aaa-d2bd74bf207a.png"> </img>
 
 These APIs receive a response in **JSON** format, it's a standard format that is easily "understandable" by applications and can be handled well in most languages. For e.g. Ruby app can easily use JSON response from Java sever.
@@ -55,7 +56,7 @@ Resources are decoupled from their representation so that their content can be a
 
 > For more information, goto <a href="https://restfulapi.net/"> reastfulapi.net </a>
 
-I hope you have a good understanding of HTTP basics now. If this article helped you, support it, and share it among your peers.
+I hope you have a good understanding of APIs now. If this article helped you, support it, and share it among your peers.
 
 Connect with me: <a href="https://linkedin.com/in/anubhavitis"> LinkedIn </a>|<a href="https://twitter.com/anubhavitis"> Twitter </a>|<a href="https://github.com/anubhavitis"> GitHub </a>
 
