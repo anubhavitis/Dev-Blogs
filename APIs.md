@@ -1,23 +1,23 @@
 # API
 
-APIs are one the most signifacant part of software development, every developer must be well versed with themI have been working as a golang backend engineer for about a year now, have constructed plenty of APIs for various projects.
+APIs are one of the most significant parts of software development, every developer must be well versed with them. I have been working as a golang backend engineer for about a year now, have constructed plenty of APIs for various projects.
 
 Recently, I came through an interesting session on APIs at <a href="https://www.crio.do/">Crio: Learn by Doing</a> and am sharing its notes with DevCommunity. Let's get it started!
 
 <hr>
 
-# API
+# What is an API?
 
 API stands for **Application Programming Interface**, is a set of functions that allows applications to access data and interact with external software components, operating systems, or microservices.
 
 <img src="https://user-images.githubusercontent.com/26124625/104198884-ca1bcf80-544c-11eb-94d1-22548426ad4d.png"></img>
-In simple, an API is like a waiter in a restaurant. You don’t go into a cafe and walk straight into the kitchen to tell the chef what you wanna eat. The waiter does that for you, and that’s exactly what an API is - with the client being you, the customer and any resource that can send data, being the chef.
+In simple, an API is like a waiter in a restaurant. You don’t go into a cafe and walk straight into the kitchen to tell the chef what you wanna eat. The waiter does that for you, and that’s exactly what an API is - with the client being you, the customer, and any resource that can send data, being the chef.
 
 <hr>
 
 # Benefits of using APIs
 
-- **Automation**: APIs are accessible to applications without user interface. This is the first most concrete benefit of using it. Instead of people, computers will do the work, hence cutting down the total time.
+- **Automation**: APIs are accessible to applications without a user interface. This is the first most concrete benefit of using it. Instead of people, computers will do the work, hence cutting down the total time.
 
 - **Better integration**: APIs allow content to be embedded from any site or application more easily. For e.g. an API written in GO can be used by Node.js/Django.
 
@@ -29,9 +29,9 @@ In simple, an API is like a waiter in a restaurant. You don’t go into a cafe a
 
 # REST API
 
-REST stands for **Representational State Transfer**, it is most  popular web API architecture. They follow a client-server model where one software program sends a request and the other responds with some data.
+REST stands for **Representational State Transfer**, it is the most popular web API architecture. They follow a client-server model where one software program sends a request and the other response with some data.
 <img src="https://user-images.githubusercontent.com/26124625/104197485-16fea680-544b-11eb-8aaa-d2bd74bf207a.png"> </img>
-These APIs receives response in JSON format, it's a standard format that is easily "understandable" by applications and can be handled well in most languages. For e.g. Android app can easily use JSON response from Node.js sever.
+These APIs receive a response in JSON format, it's a standard format that is easily "understandable" by applications and can be handled well in most languages. For e.g. Android app can easily use JSON response from Node.js sever.
 
 > There are several other forms of APIs (SOAP, XML-RPC, JSON-RPC, etc.), we'll limit our discussion to REST only. For more info, <a href="https://stoplight.io/api-types/"> Click here</a>
 
