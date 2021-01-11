@@ -34,7 +34,7 @@ REST stands for **Representational State Transfer**, it is the most popular web 
 
 <img src="https://user-images.githubusercontent.com/26124625/104197485-16fea680-544b-11eb-8aaa-d2bd74bf207a.png"> </img>
 
-These APIs receive a response in **JSON** format, it's a standard format that is easily "understandable" by applications and can be handled well in most languages. For e.g. Ruby app can easily use JSON response from Java sever.
+These APIs generally receive a response in **JSON** format, it's a standard format that is easily "understandable" by applications and can be handled well in most languages. For e.g. Ruby app can easily use JSON response from Java sever.
 
 <img src="https://user-images.githubusercontent.com/26124625/104204412-431e2580-5453-11eb-9827-29a65aa6ff82.png"></img>
 
