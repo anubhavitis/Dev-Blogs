@@ -1,4 +1,4 @@
-# Cloud Computing?
+# Introduction to Cloud Computing
 
 We all have been witnessing this buzz about cloud services, tech giants such as Google, Amazon, Microsoft, etc. releasing their cloud service platform such as [GCP](https://cloud.google.com/), [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/en-in/), etc. Every major significant company is hiring cloud developers. 
 
@@ -8,11 +8,11 @@ In this article, I'll be covering some of the basic understanding about cloud co
 
 ![LightBulb](https://images.unsplash.com/photo-1473308822086-710304d7d30c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1489&q=80)
 
-#### If you need light in your room, what are you going to do?
+## If you need light in your room, what are you going to do?
 
 Simple, just switch on the lights. In the worst case, you're going to take an electricity connection, install the bulb and never worry about it again. What you're not going to do is, produce electricity, pass it from different stations to your room, manufacture a bulb, etc.
 
-We don't care about the production, delivery, or maintenance of the power, we just pay for those services and let the service provider handle this professionally. This something that cloud computing does for software developers.
+We don't care about the production, delivery, or maintenance of the power, we just pay for those services and let the service provider handle this professionally. This something that clouds computing does for software developers.
 
 <hr>
 
@@ -62,11 +62,11 @@ Here are some of the basic examples of different cloud service providers with th
 
 - As per 2020, Annual cloud infrastructure has managed to produce revenue of **$111 Billion**, where AWS itself contributes to 33% followed by Azure at 18% and GCP at 9%.
 
-- According to an [article](https://www.roberthalf.com/blog/salaries-and-skills/the-13-highest-paying-it-jobs-in-2019) at Robert Half, DevOps and Cloud development are one of the highest paid IT jobs of 2021. 
+- According to an [article](https://www.roberthalf.com/blog/salaries-and-skills/the-13-highest-paying-it-jobs-in-2019) at Robert Half, DevOps and Cloud development is one of the highest-paid IT jobs of 2021. 
 
 <hr>
 
-This was an introductory article on Cloud Computing, If you find this useful, follow me for series of aricles on cloud computing, software development, and technical support.
+This was an introductory article on Cloud Computing, If you find this useful, follow me for series of articles on cloud services, software development, and technical support.
 
 Find me on different platforms: <a href="https://linkedin.com/in/anubhavitis"> LinkedIn </a>|<a href="https://twitter.com/anubhavitis"> Twitter </a>|<a href="https://github.com/anubhavitis"> GitHub </a>
 
